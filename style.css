@@ -1,0 +1,70 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.highlights{
+
+    color: rgb(230, 26, 128);
+}
+
+
+
+.half-width{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+
+}
+
+.half-width img{
+
+    width: 80%;
+    
+}
+
+.head-banner{
+
+    
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
+
+section{
+
+    height: 600px;
+}
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(60deg, rgb(245, 8, 146), hotpink, #f107dec7);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+
+    
+}
+
+h2{
+
+    font-size: 40px;
+    font-weight: 500;
+
+}
+
+#bio-data{
+
+    margin-top: 50px;
+}
