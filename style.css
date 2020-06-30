@@ -68,3 +68,41 @@ h2{
 
     margin-top: 50px;
 }
+
+.biography-area{
+
+    background-image: url("images/biography-bg.png");
+    background-position: 1px;
+    background-repeat: no-repeat;
+
+}
+
+.three-width{
+
+    
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.three-width img{
+
+    width: 100%;
+}
+.work-area{
+
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+h3{
+
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
