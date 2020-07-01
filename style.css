@@ -106,3 +106,32 @@ h3{
     margin-top: 50px;
     margin-bottom: 40px;
 }
+
+.mail-area{
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(60deg, rgb(204, 7, 82), rgb(204, 7, 82));
+    padding: 50px 170px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 400;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+
+}
+
+
+.footer-area{
+
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+footer{
+
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
