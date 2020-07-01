@@ -15,7 +15,7 @@ h1{
     color: rgb(230, 26, 128);
 }
 
-
+                                            /* Two Division of a section  */
 
 .half-width{
 
@@ -45,6 +45,9 @@ section{
 
     height: 600px;
 }
+
+                                            /* Top Anchor Button  */
+
 .link-button{
 
     text-decoration: none;
@@ -55,6 +58,11 @@ section{
     font-weight: 400;
 
     
+}
+
+.link-button:hover{
+
+    color: black;
 }
 
 h2{
@@ -76,7 +84,7 @@ h2{
     background-repeat: no-repeat;
 
 }
-
+                                                /* Three Division of a section  */
 .three-width{
 
     
@@ -106,7 +114,7 @@ h3{
     margin-top: 50px;
     margin-bottom: 40px;
 }
-
+                                                /* mail Anchor Button  */
 .mail-area{
     text-align: center;
     text-decoration: none;
@@ -120,8 +128,71 @@ h3{
     
 
 }
+                                                /* Social Networking Button anchor  */
+.social-network{
 
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
 
+.social-button {
+    
+    margin-left: 200px;
+    margin-right: 100px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #4e4ef1;
+
+    
+}
+
+#facebook{
+
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: #3b5998;
+    color: white;
+    box-shadow: 10px 10px 30px rgb(165, 164, 164);
+    
+}
+
+#facebook:hover{
+
+    background-color: #dd096c;
+}
+
+#github{
+   
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color:#303131;
+    color: white;
+    box-shadow: 10px 10px 30px rgb(165, 164, 164);
+
+}
+
+#github:hover{
+    background-color: #dd096c;
+
+}
+
+#linkedin{
+
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color:#2867B2;
+    color: white;
+    box-shadow: 10px 10px 30px rgb(165, 164, 164);
+
+}
+
+#linkedin:hover{
+
+    background-color: #dd096c;
+}
+                                            /* footer section  */
 .footer-area{
 
     background-image: url("images/footer-bg.png");
@@ -132,6 +203,7 @@ h3{
 footer{
 
     text-align: center;
-    margin-top: 20px;
+    margin-top: 70px;
     margin-bottom: 20px;
+    font-size: 14px;
 }
